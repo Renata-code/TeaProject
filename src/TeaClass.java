@@ -11,6 +11,8 @@ public class TeaClass {
         System.out.println("Tea without sugar");
 
         System.out.println("Let's drink tea");
+        
+        System.out.println("Let's drink juice");
 
     }
 }
