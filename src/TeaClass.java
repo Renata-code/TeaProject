@@ -18,6 +18,8 @@ public class TeaClass {
         
         System.out.println("I love my job");
 
+        System.out.println(String.valueOf(5));
+
 
     }
 }
