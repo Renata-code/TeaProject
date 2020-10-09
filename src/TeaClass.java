@@ -14,5 +14,12 @@ public class TeaClass {
         
         System.out.println("Let's drink juice");
 
+        System.out.println("I work in a finance company");
+        
+        System.out.println("I love my job");
+
+        System.out.println(String.valueOf(5));
+
+
     }
 }
